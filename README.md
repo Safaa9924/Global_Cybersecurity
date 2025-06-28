@@ -6,4 +6,6 @@ Tools Used:
 Python (Pandas, Matplotlib, Seaborn)
 Tableau for interactive dashboards
 
-Tableau/Annotation 2025-06-27 222738.png
+
+![final Dashboard  ](https://github.com/Safaa9924/Global_Cybersecurity/blob/main/Tableau/Annotation%202025-06-27%20222738.png)
+
